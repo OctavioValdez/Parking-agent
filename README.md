@@ -4,6 +4,7 @@
 - Python >= 3.10
 - uv
 - huggingface api token
+- openaAI api token
 
 ### Run code
 1. Clone repository to local folder
